@@ -51,7 +51,7 @@ This repository presents a SQL data analysis project based on the Olist Brazilia
 
 - **⭐ Delivery Performance vs. Customer Satisfaction:** Quantitatively link delivery delay intervals to average customer review scores to uncover the "satisfaction cliff."
 
-🔍 SQL Queries? Check them out here [SQL_Queries_Folder](/SQL_Codes/)
+🔍 SQL Queries? Check them out here [SQL_Queries_Folder](/SQL_Code/)
 
 ## 🛠️ Technical Skills & Tools Showcase
 
