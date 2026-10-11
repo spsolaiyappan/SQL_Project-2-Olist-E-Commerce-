@@ -267,7 +267,7 @@ ALTER TABLE public.order_reviews ADD COLUMN internal_id SERIAL PRIMARY KEY;
 
 ***Visualization for the queried results***
 
-  ![alt text](Result_Charts\1.Revenue & Category Performance.png)
+  ![alt text](Result_Charts/1.Revenue & Category Performance.png)
 
 ### Task 2: Logistics & Delivery Bottlenecks
 **🎯 Business Objective (Stakeholder Scope):** Map fulfillment performance across regional lines to locate shipping friction points.
