@@ -278,7 +278,7 @@ ALTER TABLE public.order_reviews ADD COLUMN internal_id SERIAL PRIMARY KEY;
 
 ***Visualization for the queried results***
 
-![alt text](<Result_Charts\2.Operational & Fulfilment Bottlenecks.png>)
+![alt text](<Result_Charts/2.Operational & Fulfilment Bottlenecks.png>)
 
 ### Task 3: Customer Value Segmentation (Lifetime Spend)
 **🎯 Business Objective (Stakeholder Scope):** Differentiate buyer behavior between one-time purchasers and repeat customers to measure retention.
@@ -289,7 +289,7 @@ ALTER TABLE public.order_reviews ADD COLUMN internal_id SERIAL PRIMARY KEY;
 
 ***Visualization for the queried results***
 
-  ![alt text](<Result_Charts\3.Customer Value Segmentation.png>)
+  ![alt text](<Result_Charts/3.Customer Value Segmentation.png>)
 
 ### Task 4: Payment Method & Installment Risk Analysis
 **🎯 Business Objective (Stakeholder Scope):** Analyze credit card behavioral patterns, payment types, and installment frequency.
@@ -307,7 +307,7 @@ ALTER TABLE public.order_reviews ADD COLUMN internal_id SERIAL PRIMARY KEY;
 
 ***Visualization for the queried results***
 
-  ![alt text](Result_Charts\5.Monthly Revenue Trend & Growth Analysis.png)
+  ![alt text](<Result_Charts/5.Monthly Revenue Trend & Growth Analysis.png>)
 
 ### Task 6: Seller Operational Risk Assessment
 **🎯 Business Objective (Stakeholder Scope):** Cross-examine merchant revenue contribution against average ratings and cancellation frequencies.
@@ -333,7 +333,7 @@ ALTER TABLE public.order_reviews ADD COLUMN internal_id SERIAL PRIMARY KEY;
 
 ***Visualization for the queried results***
 
-  ![alt text](Result_Charts\7.Regional Freight Cost vs. Product Price Analysis.png)
+  ![alt text](<Result_Charts/7.Regional Freight Cost vs. Product Price Analysis.png>)
 
 ### Task 8: Multi-Tier RFM Customer Segmentation
 **🎯 Business Objective (Stakeholder Scope):** Build a robust 5-5-5 segmentation model (Recency, Frequency, Monetary) to isolate VIP champions from at-risk accounts.
@@ -351,7 +351,7 @@ ALTER TABLE public.order_reviews ADD COLUMN internal_id SERIAL PRIMARY KEY;
 
 ***Visualization for the queried results***
 
-  ![alt text](Result_Charts\8.RFM Segmentation (Recency, Frequency, Monetary).png)
+  ![alt text](<Result_Charts/8.RFM Segmentation (Recency, Frequency, Monetary).png>)
 
 ### Task 9: Delivery Performance vs. Customer Satisfaction Impact
 **🎯 Business Objective (Stakeholder Scope):** Quantitatively link delivery delay intervals to average customer review scores.
@@ -370,7 +370,7 @@ ALTER TABLE public.order_reviews ADD COLUMN internal_id SERIAL PRIMARY KEY;
 
 ***Visualization for the queried results***
 
-  ![alt text](Result_Charts\9.Delivery Performance & Customer Satisfaction Impact.png)
+  ![alt text](<Result_Charts/9.Delivery Performance & Customer Satisfaction Impact.png>)
 
 ##  🏁 Project Conclusion & Key Takeaways
 
