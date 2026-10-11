@@ -267,7 +267,7 @@ ALTER TABLE public.order_reviews ADD COLUMN internal_id SERIAL PRIMARY KEY;
 
 ***Visualization for the queried results***
 
-![alt text](Result_Charts/1.Revenue & Category Performance.png)
+![alt text](<Result_Charts/1.Revenue & Category Performance.png>)
 
 ### Task 2: Logistics & Delivery Bottlenecks
 **🎯 Business Objective (Stakeholder Scope):** Map fulfillment performance across regional lines to locate shipping friction points.
@@ -278,7 +278,7 @@ ALTER TABLE public.order_reviews ADD COLUMN internal_id SERIAL PRIMARY KEY;
 
 ***Visualization for the queried results***
 
-![alt text](Result_Charts\2.Operational & Fulfilment Bottlenecks.png)
+![alt text](<Result_Charts\2.Operational & Fulfilment Bottlenecks.png>)
 
 ### Task 3: Customer Value Segmentation (Lifetime Spend)
 **🎯 Business Objective (Stakeholder Scope):** Differentiate buyer behavior between one-time purchasers and repeat customers to measure retention.
@@ -289,7 +289,7 @@ ALTER TABLE public.order_reviews ADD COLUMN internal_id SERIAL PRIMARY KEY;
 
 ***Visualization for the queried results***
 
-  ![alt text](Result_Charts\3.Customer Value Segmentation.png)
+  ![alt text](<Result_Charts\3.Customer Value Segmentation.png>)
 
 ### Task 4: Payment Method & Installment Risk Analysis
 **🎯 Business Objective (Stakeholder Scope):** Analyze credit card behavioral patterns, payment types, and installment frequency.
